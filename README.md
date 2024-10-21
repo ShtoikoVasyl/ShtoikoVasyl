@@ -8,9 +8,10 @@
 - 📧 Email: [mr.shtoiko@gmail.com](mailto:mr.shtoiko@gmail.com)
 - 📱 Phone: +45 40 46 19 91
 - 🌐 Website: [https://shtoiko.dev](https://shtoiko.dev)
+- 🔗 LinkedIn: [Vasyl Shtoiko](https://www.linkedin.com/in/vasyl-shtoiko-895ab2316/)
 ## About Me
 
-🚀 Through my projects, I’ve gained experience with technologies such as Spring Boot, Docker, PostgreSQL, and others. I am focused on writing clean, maintainable code and always eager to learn and improve as part of a professional team.
+💡 Through my projects, I’ve gained experience with technologies such as Spring Boot, Docker, PostgreSQL, and others. I am focused on writing clean, maintainable code and always eager to learn and improve as part of a professional team.
 
 ## Featured Project
 
@@ -23,35 +24,11 @@
 
 I developed the project entirely on my own, overseeing every aspect of the design and implementation.
 
-#### Microservices within BankSim:
-- [BSDiscoveryServer](https://github.com/ShtoikoVasyl/BSDiscoveryServer)
-- [BSGateway](https://github.com/ShtoikoVasyl/BSGateway)
-- [BSConfigServer](https://github.com/ShtoikoVasyl/BSConfigServer)
-- [AuthService](https://github.com/ShtoikoVasyl/AuthService)
-- [UserService](https://github.com/ShtoikoVasyl/UserService)
-- [TransactionProvider](https://github.com/ShtoikoVasyl/TransactionProvider)
-- [AccountService](https://github.com/ShtoikoVasyl/AccountService)
-- [InfrastructureService](https://github.com/ShtoikoVasyl/InfrastructureService)
-- [ATM Simulator](https://gitlab.com/kulch.roman/learning-java0)
+#### Microservices within BankSim: [BSDiscoveryServer](https://github.com/ShtoikoVasyl/BSDiscoveryServer), [BSGateway](https://github.com/ShtoikoVasyl/BSGateway), [BSConfigServer](https://github.com/ShtoikoVasyl/BSConfigServer), [AuthService](https://github.com/ShtoikoVasyl/AuthService), [UserService](https://github.com/ShtoikoVasyl/UserService), [TransactionProvider](https://github.com/ShtoikoVasyl/TransactionProvider), [AccountService](https://github.com/ShtoikoVasyl/AccountService), [InfrastructureService](https://github.com/ShtoikoVasyl/InfrastructureService), [ATM Simulator](https://gitlab.com/kulch.roman/learning-java0)
 
 ## ⚙️ Technical Skills 🛠️
-
-**Core Technologies:**
-- Java (versions 8, 11, 17, 21)
-- Spring Framework (MVC, Cloud, Data, Security)
-- Hibernate for ORM
-- Docker for containerization
-- PostgreSQL, MongoDB for database management
-- Testing: JUnit, Mockito
-
-**Additional Knowledge:**
-- gRPC
-- Apache Kafka
-- AWS
-- Flyway, Liquibase for database migrations
-- Project Reactor for reactive programming
-- Swing for UI development
-- DevOps basics and CI/CD
+**Core Technologies:** Java (8, 11, 17, 21), Spring Framework (MVC, Cloud, Data, Security), Hibernate, Docker, PostgreSQL, MongoDB, JUnit, Mockito  
+**Additional Knowledge:** gRPC, Apache Kafka, AWS, Flyway, Liquibase, Project Reactor, Swing, DevOps, CI/CD
 
 ## Contact Me
 - 🌐 Website: [https://shtoiko.dev](https://shtoiko.dev)
